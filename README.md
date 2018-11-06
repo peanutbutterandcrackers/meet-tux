@@ -9,6 +9,6 @@ This work (the project itself) is licensed under a [Creative Commons Attribution
 # Contributing
 You are welcome to make any Pull Requests. However, please only add Creative Commons Licensed or Public Domain media files into the Project if you want it to be merged. Also, __before making a PR, please remove the history stack from the project file using the following command:__
 ```bash
-sed -i -f Scripts/undo_history.sed Meet_Tux.osp
+sed -i.backup -f Scripts/undo_history.sed Meet_Tux.osp
 ```
-
+The command also creates a backup of the project, with the extension `.backup`, for safety.
