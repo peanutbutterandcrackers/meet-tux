@@ -1,5 +1,5 @@
 # meet-tux
-An OpenShot Motion-Graphics Starring Tux
+An OpenShot Motion-Graphic Starring Tux
 
 ![meet tux](https://user-images.githubusercontent.com/26764547/48016787-a1a13800-e154-11e8-9f1d-bfe2a64a6ad4.gif)
 
